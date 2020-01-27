@@ -20,3 +20,5 @@ venv
 
 # javascript
 package-lock.json
+
+.idea/
